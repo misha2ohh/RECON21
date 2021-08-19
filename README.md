@@ -4,7 +4,9 @@ All the code for my RECON '21 Talk "How to Build and Refine Your First Escape Ro
 
 <b>FILES</b> </br>
 </br>
-<b>Purchase everything you need to build this puzzle from <a href="https://www.amazon.com/hz/wishlist/ls/1U58SYHESFNZV?ref_=wl_share">Amazon</a>.
+<b>Purchase everything you need to build this puzzle from <a href="https://www.amazon.com/hz/wishlist/ls/1U58SYHESFNZV?ref_=wl_share">Amazon</a>.</b>
+</br>
+</br>
 <b>Puzzle_Pseudo_Code_Basic_v1.ino</b></br>
 -- Explains what the different sections of an Arduino sketch are for using our "Dinner" metaphor.
 </br>
