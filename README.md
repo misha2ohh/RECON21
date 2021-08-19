@@ -1,5 +1,5 @@
 # RECON21
-All the code for my RECON '21 Talk "Creating and refining your first escape room tech puzzle."
+All the code for my RECON '21 Talk "How to Build and Refine Your First Escape Room Tech Puzzle."
 
 
 <b>FILES</b> </br>
